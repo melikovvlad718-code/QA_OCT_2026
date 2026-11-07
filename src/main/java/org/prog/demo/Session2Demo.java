@@ -9,7 +9,7 @@ public class Session2Demo {
         if (i == j) {
             System.out.println("i == j");
         } else {
-            System.out.println("!!!!");
+            System.out.println("!!!!!!");
         }
     }
 }
